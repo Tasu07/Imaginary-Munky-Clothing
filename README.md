@@ -24,7 +24,7 @@ To run this project locally, follow these steps:
 Clone the Repository:
 
 
-git clone https://github.com/your-username/munky-clothing.git
+git clone https://github.com/tasughalan/munky-clothing.git
 
 Navigate to the Project Directory:
 cd munky-clothing
