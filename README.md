@@ -24,11 +24,10 @@ To run this project locally, follow these steps:
 Clone the Repository:
 
 
-git clone https://github.com/tasughalan/munky-clothing.git
-
+git clone https://tasu07.github.io/Imaginary-Munky-Clothing/
 Navigate to the Project Directory:
 cd munky-clothing
-Open index.html in Your Browser.
+https://tasu07.github.io/Imaginary-Munky-Clothing/ in Your Browser.
 
 Contributing
 Feel free to submit issues or pull requests if you have suggestions for improvements or enhancements. Contributions are welcome!
